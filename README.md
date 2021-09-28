@@ -1,5 +1,5 @@
 # visualitzacio_exploratoria
-IT Academy Data Science Sprint 5 Task 1
+IT Academy Data Science Sprint 4 Task 1
 
 Exercises 1:
 
